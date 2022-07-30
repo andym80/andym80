@@ -6,7 +6,7 @@ Full-Stack Developer<br>
 <br> 
 I find solutions at every display you'll present to me.</h2>
 
-  I'm on a mission to work and innovate with a strong tech company one day, mostly with social impact.I previously worked as a Sound Designer where I learned how to work with a team , remotely and efficiently. Now I'm increasing my knowledge in coding & web development. I have built my own interfaces since I started last year. Currently, I am studying at Microverse, an online training school where I code 8 hours a day remotely with other developers from all over the world and have learned the skills of communication and teamwork.<br><br>
+  I'm on a mission to work and innovate with a strong tech company one day, mostly with social impact.I previously worked as a Sound Designer where I learned how to work with a team , remotely and efficiently. Now I'm increasing my knowledge in coding & web development. I have built my own interfaces since I started last year. Currently, I am studying at Microverse, an online training school where I code 8 hours a day remotely with other developers worldwide and have learned the skills of communication and teamwork.<br><br>
 Would you be open to discussing further with me? <br>
 
 
