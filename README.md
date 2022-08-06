@@ -1,4 +1,4 @@
-![alt text](https://github.com/[andym80]/[andym80]/blob/[main]/1.png?raw=true)
+![alt text](https://github.com/andym80/andym80/blob/main/1.png?raw=true)
 <h1>Hello, I'm Andy Menutti</h2>
 
 <h5>About Me:<br><br>
