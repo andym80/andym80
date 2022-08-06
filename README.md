@@ -1,8 +1,8 @@
 ![alt text](https://github.com/andym80/andym80/blob/main/1.png?raw=true)
 
 <h3>About Me:<br><br>
-Based in Buenos Aires, Argentina.<br>
-UTC/GMT -3 hours
+Based in Buenos Aires, Argentina.<br></h3>
+<p aligne="right">UTC/GMT -3 hours</p>
 <br><br>
 <h3 align="center">I find solutions at every display you'll present to me.</h3>
 
