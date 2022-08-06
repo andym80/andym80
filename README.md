@@ -2,7 +2,15 @@
 <h1>Hello, I'm Andy Menutti</h2>
 
 <h5>About Me:<br><br>
-Full-Stack Developer<br><br>
+  telescope I’m a Full Stack developer
+handshake I find solutions at every display you'll present to me.
+seedling I’m currently learning at Microverse
+speech_balloon Ask me about:
+- programming
+- machine learning
+- sound
+- Dolby Atmos 360
+
 Based in Buenos Aires, Argentina.<br>
 UTC/GMT -3 hours
 <br><br>
@@ -34,7 +42,7 @@ Contact me: <a href="mailto:andymenutti@gmail.com?subject=My E-mail">andymenutti
 <div>
   
   # 💫 About Me:
-🔭 I’m a Full Stack developer<br>🤝 I find solutions at every display you'll present to me.<br>🌱 I’m currently learning at Microverse <br>💬 Ask me about:<br>     - programming <br>     - machine learning<br>     - sound<br>     - Dolby Atmos 360<br><br><br>
+x
 
 
 ## 🌐 Socials:
