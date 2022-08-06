@@ -26,6 +26,7 @@ Contact me: <a href="mailto:andymenutti@gmail.com?subject=My E-mail">andymenutti
 [![](https://visitcount.itsvg.in/api?id=andym80&icon=0&color=6)](https://visitcount.itsvg.in)
   
 ![Github stats](https://github-readme-stats.vercel.app/api?username=andym80&theme=highcontrast&show_icons=true&count_private=true)
+  ![top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=andym80&show_icons=true&theme=radical)
 
 <div>
 
