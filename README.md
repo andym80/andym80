@@ -13,7 +13,7 @@ Would you be open to discussing further with me? <br>
 
 Contact me: <a href="mailto:andymenutti@gmail.com?subject=My E-mail">andymenutti@gmail.com</a>
 
-<a href="https://andym80.github.io/my-portfolio-skeleton/">PORTFOLIO link</a>
+<a href="https://andym80.github.io/Portfolio-AM/">PORTFOLIO link</a>
 
 
 
