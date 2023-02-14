@@ -6,9 +6,11 @@ Based in Buenos Aires, Argentina.<br></h3>
 <br>
 <h3 align="center">I find solutions at every display you'll present to me.</h3>
 
-I'm on a mission to work and innovate with a strong tech company one day, mostly with social impact. I previously worked as a Sound Designer, where I learned how to work with a team remotely and efficiently. Now, I'm increasing my knowledge in coding & web development. I have built my own interfaces since I started last year. Currently, I am studying at Microverse, an online training school where I code 8 hours a day remotely with other developers worldwide and have learned communication and teamwork skills.
+Hello! I am a highly motivated individual with a strong desire to work with a tech company that can create a positive social impact. I have experience working as a Sound Designer, where I learned how to collaborate effectively with remote teams. Recently, I have been expanding my knowledge and skills in coding and web development, and I have even built my own interfaces since starting last year.
 
-Would you be open to discussing further with me? <br>
+Currently, I am pursuing my passion for technology at Microverse, an online training school where I code for 8 hours a day alongside developers from all around the world. I am eager to learn and grow as much as possible, and I have gained valuable communication and teamwork skills through this experience.
+
+I would love to discuss my background and aspirations with you in more detail. Please feel free to reach out to me at any time. <br>
 
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSdLP9recpgUDwrxwMUT5wbJ4K6tRn0bohdWx2vkfz-AN2rh5A/viewform?embedded=true" width="640" height="880" frameborder="0" marginheight="0" marginwidth="0">Lend me your contact</a>
 
