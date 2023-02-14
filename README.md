@@ -6,7 +6,8 @@ Based in Buenos Aires, Argentina.<br></h3>
 <br>
 <h3 align="center">I find solutions at every display you'll present to me.</h3>
 
-  I'm on a mission to work and innovate with a strong tech company one day, mostly with social impact.I previously worked as a Sound Designer where I learned how to work with a team , remotely and efficiently. Now I'm increasing my knowledge in coding & web development. I have built my own interfaces since I started last year. Currently, I am studying at Microverse, an online training school where I code 8 hours a day remotely with other developers worldwide and have learned the skills of communication and teamwork.<br><br>
+I'm on a mission to work and innovate with a strong tech company one day, mostly with social impact. I previously worked as a Sound Designer, where I learned how to work with a team remotely and efficiently. Now, I'm increasing my knowledge in coding & web development. I have built my own interfaces since I started last year. Currently, I am studying at Microverse, an online training school where I code 8 hours a day remotely with other developers worldwide and have learned communication and teamwork skills.
+
 Would you be open to discussing further with me? <br>
 
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSdLP9recpgUDwrxwMUT5wbJ4K6tRn0bohdWx2vkfz-AN2rh5A/viewform?embedded=true" width="640" height="880" frameborder="0" marginheight="0" marginwidth="0">Lend me your contact</a>
