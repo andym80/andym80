@@ -34,7 +34,11 @@ Full Stack Developer
 
 Projects:
 
-Rental yacht app using RubyOnRails/API/React-Redux/PostgreSQL/Rspec; DAO Decentralized Autonomous Organization with React.js; Weather app using React/Redux/API/JavaScript ES6/Jest/Bootstrap; Space-X app using React/Webpack/Jest/Bootstrap.
+Rental yacht app using RubyOnRails/API/React-Redux/PostgreSQL/Rspec;
+DAO Decentralized Autonomous Organization with React.js;
+Weather app using React/Redux/API/JavaScript ES6/Jest/Bootstrap
+Space-X app using React/Webpack/Jest/Bootstrap.
+Calculator app: React/JavaScript ES6/Bootstrap.
 
 Training:
 
