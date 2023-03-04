@@ -12,6 +12,46 @@ Currently, I am pursuing my passion for technology at Microverse, an online trai
 
 I would love to discuss my background and aspirations with you in more detail. Please feel free to reach out to me at any time. <br>
 
+<p> Andres Menutti
+  
+Full Stack Web Developer
+
+Background: Sound Design
+
+Skills:
+
+Front-End: JavaScript, React, Redux, HTML5, CSS3, SASS, Bootstrap, Adobe Photoshop, Figma. 
+Back-End: Ruby, Rails, Node.js. 
+Database: PostgreSQL, SQL. 
+Tools & Methods: Git, GitHub, Heroku, Render, Mobile/Responsive Development, RSpec, Capybara, TDD, Chrome Dev Tools, Kanban. 
+Product Management: UI design, UX Design, Prototyping, Wireframing. 
+Professional skills: Remote Pair-Programming, Teamwork, Mentoring, Agile, Interpersonal Skills, Adaptability, and Project Management.
+
+Experience:
+
+Media Stack Developer. 
+Full Stack Developer
+
+Projects:
+
+Rental yacht app using RubyOnRails/API/React-Redux/PostgreSQL/Rspec; DAO Decentralized Autonomous Organization with React.js; Weather app using React/Redux/API/JavaScript ES6/Jest/Bootstrap; Space-X app using React/Webpack/Jest/Bootstrap.
+
+Training:
+
+Remote Full Stack Web Development Program from Microverse (1300+ hours)
+Skills developed during training:
+Algorithms, data structures, full-stack development, remote pair programming, industry-standard git-flow, daily standups
+
+Passion:
+
+Interactions and experience in design in web development
+
+Goal:
+
+Delivering clean, efficient code and constantly learning new technologies to stay ahead in the industry
+
+</p>
+
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSdLP9recpgUDwrxwMUT5wbJ4K6tRn0bohdWx2vkfz-AN2rh5A/viewform?embedded=true" width="640" height="880" frameborder="0" marginheight="0" marginwidth="0">Lend me your contact</a>
 
 Contact me: <a href="mailto:andymenutti@gmail.com?subject=My E-mail">andymenutti@gmail.com</a>
