@@ -61,7 +61,7 @@ Delivering clean, efficient code and constantly learning new technologies to sta
 
 Contact me: <a href="mailto:andymenutti@gmail.com?subject=My E-mail">andymenutti@gmail.com</a>
 
-<a href="https://andym80.github.io/Portfolio-AM/">PORTFOLIO link</a>
+<a href="https://portfolio23-andym80.vercel.app/">PORTFOLIO link</a>
 
 
 
