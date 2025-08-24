@@ -1,5 +1,4 @@
-
-<imgsrc=https://sora.chatgpt.com/g/gen_01k3ecm7saez0s4fcewg0rwwy6
+[![Andrés Menutti – Full Stack Developer / Creative Technologist](https://ruta-de-tu-imagen.png)](https://sora.chatgpt.com/g/gen_01k3ecm7saez0s4fcewg0rwwy6)
 
 <h3>About Me:<br><br>
 Based in Buenos Aires, Argentina.<br></h3>
